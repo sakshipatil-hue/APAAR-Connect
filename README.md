@@ -10,8 +10,8 @@
 
 ![SIH 2026](https://img.shields.io/badge/SIH-2026-1f6feb?style=for-the-badge)
 ![Problem Statement](https://img.shields.io/badge/Problem%20Statement-SIH26263-8957e5?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-EdTech%20%26%20Governance-2da44e?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Prototype%20in%20Development-f0883e?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Smart-Automation%20%26%20Governance-2da44e?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Prototype%20in%20-f0883e?style=for-the-badge)
 
 <br/>
 
